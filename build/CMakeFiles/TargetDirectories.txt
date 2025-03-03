@@ -1,0 +1,3 @@
+/home/jamesappletonret/personal/oganesson/build/CMakeFiles/oganes.dir
+/home/jamesappletonret/personal/oganesson/build/CMakeFiles/edit_cache.dir
+/home/jamesappletonret/personal/oganesson/build/CMakeFiles/rebuild_cache.dir
